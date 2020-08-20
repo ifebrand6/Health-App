@@ -1,8 +1,8 @@
 <template>
   <div class="home pt-8">
-    <h1 class="text-white text-4xl font-medium">Health Dashboard</h1>
+    <h1 class="text-white text-4xl font-medium">Our Blood</h1>
     <p class="font-thin text-white text-sm">
-      Visualisation of the bloodgroup data of 20 random people
+     Visualisation of the bloodgroup data of a bunch of random people
     </p>
     <div class="flex justify-center my-10">
       <div class="mx-4">
